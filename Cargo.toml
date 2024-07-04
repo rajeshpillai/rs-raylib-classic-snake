@@ -1,0 +1,9 @@
+[package]
+name = "rust-raylib-snake-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+raylib = "3.6"
+rand = "0.8"
+
